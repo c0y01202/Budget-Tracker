@@ -22,4 +22,4 @@ https://github.com/c0y01202/Budget-Tracker
 
 ## Link to Budget Tracker on Heroku
 
-https://git.heroku.com/evening-eyrie-48642.git
+https://evening-eyrie-48642.herokuapp.com/
