@@ -4,7 +4,9 @@ const mongoose = require("mongoose");
 const compression = require("compression");
 
 const PORT = process.env.PORT || 3001;
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb://0.0.0.0:27017/budget";
+const MONGODB_URI =
+  process.env.MONGODB_URI ||
+  "mongodb+srv://cchittim10101:<password>@cluster0.z7orl6t.mongodb.net/?retryWrites=true&w=majority";
 
 const app = express();
 
