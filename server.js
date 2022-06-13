@@ -6,7 +6,7 @@ const compression = require("compression");
 const PORT = process.env.PORT || 3001;
 const MONGODB_URI =
   process.env.MONGODB_URI ||
-  "mongodb+srv://cchittim10101:<Ana1ys1s2022>@cluster0.z7orl6t.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://cchittim10101:Ana1ys1s2022@cluster0.z7orl6t.mongodb.net/?retryWrites=true&w=majority";
 
 const app = express();
 
